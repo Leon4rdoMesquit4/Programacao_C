@@ -1,1 +1,1 @@
-# Exerc-cios_Programa-o_Estruturada
+# Exercicios_Programacao_Estruturada
