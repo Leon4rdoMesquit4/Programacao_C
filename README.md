@@ -1,1 +1,1 @@
-# Exercicios_Programacao_Estruturada
+# Programacao_em_C
